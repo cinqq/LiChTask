@@ -1,5 +1,8 @@
 # Getting Started
 
+
+This is copy from https://github.com/klarzynskik/simple-form + tests.
+
 This is a project created using Create React App. In order to start, you should install dependencies first via the `npm install` in the project root.
 
 ### `npm run start`
